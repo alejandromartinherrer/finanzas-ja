@@ -7,7 +7,7 @@
      viejos hasta la segunda apertura, que es justo lo que no queremos.
    - Los iconos y el manifiesto van al revés (caché primero): no cambian y
      así la app abre al instante. */
-const VERSION = 'f111855c9a67';
+const VERSION = 'd7a1e8f22939';
 const FICHEROS = ['./', './index.html', './manifest.webmanifest',
                   './icono-192.png', './icono-512.png', './icono-180.png', './icono-mask.png'];
 
